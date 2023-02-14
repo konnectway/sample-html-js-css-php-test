@@ -1,0 +1,1 @@
+To run this project just type "php -S localhost:8000" in the terminal.
